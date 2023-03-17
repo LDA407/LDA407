@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Glad to see you here!  
 Two years ago I got to know the world of web application programming and development through a full-stack course, where I learned different skills in both the backend and frontend.
 
-Today I am learning on my own different languages ​​and development stack to expand my knowledge and improve my skills.
+Since then, I have maintained my passion for programming and have dedicated myself to continue learning on my own, exploring different languages ​​and development stacks to expand my knowledge and improve my skills. With each new tool I learn, I feel like I'm one step closer to my goal of becoming a highly skilled and efficient software developer.
   
 
 - 🔭 I’m currently working on [clon de computrabajo](https://github.com/rishavanand/github-profilinator)
