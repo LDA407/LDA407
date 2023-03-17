@@ -22,7 +22,7 @@ Since then, I have maintained my passion for programming and have dedicated myse
   
 
 - 🔭 I’m currently working on [clon de computrabajo](https://github.com/rishavanand/github-profilinator)
-- 🌱 I’m currently learning the MEARN stack
+- 🌱 I’m currently learning the MERN stack
 - 🤔 I need Help with RXDCFVGJ
 
 # 💻 Techs and Tools:
