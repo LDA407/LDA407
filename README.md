@@ -22,7 +22,7 @@ Today I am learning on my own different languages ​​and development stack to
   
 
 - 🔭 I’m currently working on [clon de computrabajo](https://github.com/rishavanand/github-profilinator)
-- 🌱 I’m currently learning the MEAR stack
+- 🌱 I’m currently learning the MEARN stack
 - 🤔 I need Help with RXDCFVGJ
 
 # 💻 Tech and Tools:
