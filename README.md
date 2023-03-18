@@ -21,7 +21,7 @@ Two years ago I got to know the world of web application programming and develop
 Since then, I have maintained my passion for programming and have dedicated myself to continue learning on my own, exploring different languages ​​and development stacks to expand my knowledge and improve my skills. With each new tool I learn, I feel like I'm one step closer to my goal of becoming a highly skilled and efficient software developer.
   
 
-- 🔭 I’m currently working on [clon de computrabajo](https://github.com/rishavanand/github-profilinator)
+- 🔭 I’m currently working on [clon de computrabajo](https://github.com/LDA407/clone_computrabajo)
 - 🌱 I’m currently learning the MERN stack
 - 🤔 I need Help with RXDCFVGJ
 
