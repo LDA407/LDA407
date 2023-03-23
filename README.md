@@ -19,7 +19,8 @@ Since then, I have maintained my passion for programming and have dedicated myse
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table width="100%">
+<tr><td valign="top" width="50%">
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=LDA407&theme=onedark&hide_border=false&include_all_commits=true&count_private=true" align="left" style="width: 100%" /> -->
 
